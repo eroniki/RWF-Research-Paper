@@ -1,0 +1,128 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.19)  8 JUN 2015 11:26
+entering extended mode
+**draft1
+(draft1.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\apa\apa.cls"
+Document Class: apa 2008/12/09 American Psychological Association format v1.3.4
+
+
+Class apa Warning: Using BibTeX with apacite for citations and references.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\apacite.sty"
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count87
+\bibleftmargin=\skip43
+\bibindent=\skip44
+\bibparsep=\skip45
+\bibitemsep=\skip46
+\biblabelsep=\skip47
+)
+\b@level@one@skip=\skip48
+\e@level@one@skip=\skip49
+\b@level@two@skip=\skip50
+\e@level@two@skip=\skip51
+\b@level@three@skip=\skip52
+\e@level@three@skip=\skip53
+\b@level@four@skip=\skip54
+\e@level@four@skip=\skip55
+\b@level@five@skip=\skip56
+\e@level@five@skip=\skip57
+\c@APAenum=\count88
+\@text@par@indent=\skip58
+\gr@box=\box26
+\gr@boxwidth=\skip59
+\gr@boxheight=\skip60
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
+LaTeX Info: Redefining \bm on input line 203.
+)
+\c@appendix=\count89
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\endnotes\endnotes.sty"
+\c@endnote=\count90
+\endnotesep=\dimen103
+\@enotes=\write3
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\endfloat\endfloat.sty"
+Package: endfloat 2011/12/25 v2.5d LaTeX2e package puts figures and tables at e
+nd (jdm)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\c@posttable=\count91
+\efloat@postttt=\write4
+\@ef@tttopen=\count92
+\c@postfigure=\count93
+\efloat@postfff=\write5
+\@ef@fffopen=\count94
+) (draft1.fff)
+(draft1.ttt)) (draft1.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\apa\english.apa"
+File: english.apa 2006/01/01
+)
+\c@maskedRefs=\count95
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\english.apc"
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+]
+AED endfloat: Processing end Figures and Tables [2] (draft1.ttt) (draft1.fff)
+(draft1.aux) ) 
+Here is how much of TeX's memory you used:
+ 1249 strings out of 493698
+ 15211 string characters out of 3144412
+ 74701 words of memory out of 3000000
+ 4622 multiletter control sequences out of 15000+200000
+ 4549 words of font info for 17 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 31i,5n,23p,199b,114s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on draft1.pdf (2 pages, 26716 bytes).
+PDF statistics:
+ 17 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
