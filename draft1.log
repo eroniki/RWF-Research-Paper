@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.19)  8 JUN 2015 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.19)  8 JUN 2015 17:21
 entering extended mode
 **draft1
 (draft1.tex
@@ -235,19 +235,19 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \bibitemsep=\skip68
 \biblabelsep=\skip69
 ) (draft1.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 12.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -312,29 +312,42 @@ LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 ) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-] [2] [3] [4] [5] [6] [7] (draft1.bbl
-[8] [9]
+] [2] [3] [4] [5]
+Underfull \vbox (badness 1303) has occurred while \output is active []
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) AED endfloat: Processing end Figures and Tables [10
+ [7]
+[8] [9] (draft1.bbl [10]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 23.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \hbox (59.78806pt too wide) in paragraph at lines 38--51
+\T1/lmtt/m/n/12 http://motherboard.vice.com/read/the-sheer-difficulty-of-defini
+ng-what-a-robot-is 
+ []
+
+) AED endfloat: Processing end Figures and Tables [11
 
 ] (draft1.aux) ) 
 Here is how much of TeX's memory you used:
- 4502 strings out of 493698
- 63139 string characters out of 3144412
- 134663 words of memory out of 3000000
- 7795 multiletter control sequences out of 15000+200000
- 14961 words of font info for 19 fonts, out of 3000000 for 9000
+ 4550 strings out of 493698
+ 63834 string characters out of 3144412
+ 134820 words of memory out of 3000000
+ 7839 multiletter control sequences out of 15000+200000
+ 15279 words of font info for 20 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 43i,11n,47p,1318b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,10n,47p,2033b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/lm/lmri12.pfb>
-Output written on draft1.pdf (10 pages, 91586 bytes).
+/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt12
+.pfb>
+Output written on draft1.pdf (11 pages, 122672 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
