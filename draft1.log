@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.19)  8 JUN 2015 21:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.19)  8 JUN 2015 21:41
 entering extended mode
 **draft1
 (draft1.tex
@@ -312,7 +312,9 @@ LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 ) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-] [2] [3] [4] [5] [6] [7] [8] [9]
+] [2] [3] [4] [5
+
+] [6] [7] [8] [9]
 (draft1.bbl [10] [11]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 24.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
@@ -345,13 +347,13 @@ Here is how much of TeX's memory you used:
  7871 multiletter control sequences out of 15000+200000
  15279 words of font info for 20 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 43i,10n,47p,2033b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,47p,2033b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Progr
 am Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on draft1.pdf (13 pages, 128172 bytes).
+Output written on draft1.pdf (13 pages, 128133 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
