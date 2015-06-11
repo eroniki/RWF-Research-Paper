@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.19)  11 JUN 2015 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.19)  11 JUN 2015 12:19
 entering extended mode
 **draft1
 (draft1.tex
@@ -353,7 +353,7 @@ ications-of-emerging-technologies/
  []
 
 
-Overfull \hbox (59.78806pt too wide) in paragraph at lines 112--125
+Overfull \hbox (59.78806pt too wide) in paragraph at lines 148--161
 \T1/lmtt/m/n/12 http://motherboard.vice.com/read/the-sheer-difficulty-of-defini
 ng-what-a-robot-is 
  []
@@ -362,10 +362,10 @@ ng-what-a-robot-is
 
 ] (draft1.aux) ) 
 Here is how much of TeX's memory you used:
- 4648 strings out of 493698
- 65742 string characters out of 3144412
- 135035 words of memory out of 3000000
- 7907 multiletter control sequences out of 15000+200000
+ 4652 strings out of 493698
+ 65772 string characters out of 3144412
+ 136134 words of memory out of 3000000
+ 7911 multiletter control sequences out of 15000+200000
  40098 words of font info for 40 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  43i,10n,47p,1535b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -374,7 +374,7 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on draft1.pdf (6 pages, 127121 bytes).
+Output written on draft1.pdf (6 pages, 129912 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
