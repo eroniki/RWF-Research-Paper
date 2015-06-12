@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.19)  11 JUN 2015 22:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.19)  11 JUN 2015 23:45
 entering extended mode
 **draft1
 (draft1.tex
@@ -341,7 +341,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 23.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-] [2] [3] [4] (draft1.bbl [5]
+] [2] [3] [4] [5] [6] (draft1.bbl [7]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 24.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
@@ -353,19 +353,25 @@ ications-of-emerging-technologies/
  []
 
 
-Overfull \hbox (59.78806pt too wide) in paragraph at lines 99--112
+Overfull \hbox (59.78806pt too wide) in paragraph at lines 153--166
 \T1/lmtt/m/n/12 http://motherboard.vice.com/read/the-sheer-difficulty-of-defini
 ng-what-a-robot-is 
  []
 
-) AED endfloat: Processing end Figures and Tables [6
+
+Overfull \hbox (4.21303pt too wide) in paragraph at lines 178--190
+\T1/lmtt/m/n/12 http://cs.stanford.edu/people/eroberts/courses/soco/projects/20
+04-05/ai/ 
+ []
+
+) AED endfloat: Processing end Figures and Tables [8
 
 ] (draft1.aux) ) 
 Here is how much of TeX's memory you used:
- 4644 strings out of 493698
- 65704 string characters out of 3144412
- 134012 words of memory out of 3000000
- 7903 multiletter control sequences out of 15000+200000
+ 4660 strings out of 493698
+ 65832 string characters out of 3144412
+ 134310 words of memory out of 3000000
+ 7919 multiletter control sequences out of 15000+200000
  40098 words of font info for 40 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  43i,10n,47p,821b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -374,9 +380,9 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on draft1.pdf (6 pages, 128010 bytes).
+Output written on draft1.pdf (8 pages, 136266 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
