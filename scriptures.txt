@@ -1,9 +1,0 @@
-security
-
-Although being able to elaborate its source code by itself and being easily cloned are the factors considered advantage for the society, \citeA{duff} claims that combination of these factors would % make AI able to easily reproduce itself, which means robots may own robots that they create in the long term.
-Consequently, second generations robots created by the first generations would be utterly dependent on the first generation robots which means the first generation robots might command their offspring how ever they want.
-This unpredictable action-decision chain raises a major security problems including human annihilation for the society.
-
-The counterargument was proposed by \citeA{rosa} by underlining the evolutionary approach on human morality.
-As \citeA{rosa} cited, probability of error in evolution of human morality and nature displays a significant resemblance to the errors that might AI commit.
-For that reason, it is more logical to create a ground that can tolerate the probable AI's errors.
